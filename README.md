@@ -1,1 +1,2 @@
-New lerning very small project
+# THIS IS MY STARTING TO WEB DEV
+HTML SMALL PROJECT
